@@ -10,3 +10,7 @@ Thumbs.db
 Desktop.ini
 *.tmp
 *~
+
+# Datasets generados por el pipeline
+data/raw/*.csv
+data/processed/*.csv
